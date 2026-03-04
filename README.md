@@ -1,7 +1,5 @@
 # JCDSAH-024_Gamma
 
-# JCDSAH-024_Gamma
-
 # Prediksi Customer Churn pada Perusahaan Telekomunikasi
 
 ## Latar Belakang
@@ -85,6 +83,9 @@ Dengan memanfaatkan model prediksi churn ini, perusahaan dapat mengidentifikasi 
 
 # How to Run Local
 cd telco_churn_app
+
 Run this code
+
 streamlit run app.py
+
 Streamlit Link : https://jessicatanu-beep-telco-churn-app-app-z3vfvh.streamlit.app/
